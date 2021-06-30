@@ -5,7 +5,7 @@
 
 
 
-- 👨‍🏭 I’m currently pursuing **B.Tech CSE at Techno India Salt Lake ** 
+- 👨‍🏭 I’m currently pursuing **B.Tech IT at Techno India Salt Lake ** 
 - 🏫 I’m currently learning **Problem Solving & Mobile App Devlopment** 
 - 🙌 I’m looking to collaborate on **Mobile App Development**
 - 🤔 I’m looking for help with **A.I/M.L projects and competitive programing**
