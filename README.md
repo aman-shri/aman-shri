@@ -4,12 +4,9 @@
 <h3>A budding programmer exploring new fields of development.</h3>
 
 
-
-- 👨‍🏭 I’m currently pursuing **B.Tech IT at Techno India Salt Lake ** 
-- 🏫 I’m currently learning **Problem Solving & Mobile App Devlopment** 
 - 🙌 I’m looking to collaborate on **Mobile App Development**
-- 🤔 I’m looking for help with **Competitive programing**
-- 🥅 2022 Goals: **Contribute more  projects & learn new stacks**
+- 🤔 I’m looking for help with **Competitive programming**
+- 🥅 2023 Goals: **Contribute more  projects & learn new stacks**
 - 💬 Ask me about Anything **either I recall or I learn**
 
 🕵 Take a look at my repositories and let's get in touch!
