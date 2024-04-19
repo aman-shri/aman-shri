@@ -1,12 +1,8 @@
 ### Hi ,I Am Aman Shrivastava <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=aman-shri&color=blue)
-<h3>A budding programmer exploring new fields of development.</h3>
+<h3>A developer.</h3>
 
-
-- 🙌 I’m looking to collaborate on **Mobile App Development**
-- 🤔 I’m looking for help with **Competitive programming**
-- 🥅 2023 Goals: **Contribute more  projects & learn new stacks**
 - 💬 Ask me about Anything **either I recall or I learn**
 
 🕵 Take a look at my repositories and let's get in touch!
