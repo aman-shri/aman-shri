@@ -2,8 +2,8 @@
 
 # Hi there, I'm Aman Shrivastava 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-shri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrivastava250@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-shrivastava)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.shrivastava@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman-shri)
 
 <br/>
@@ -56,7 +56,7 @@
 
 ### 📦 Featured Projects
 
-#### 🛡️ [Distributed Rate-Limited API Gateway](https://github.com/aman-shrivastava)
+#### 🛡️ [Distributed Rate-Limited API Gateway](https://github.com/aman-shri)
 *High-throughput API gateway engineered to throttle, authenticate, and route traffic to microservices.*
 - **Stack**: Go / Python, Redis, PostgreSQL, Docker, GitHub Actions
 - **Key Highlights**:
@@ -64,7 +64,7 @@
   - Built GitHub OAuth2 authentication with JWT token provisioning and role-based access control (RBAC).
   - Background task scheduling using Celery + Redis message queues.
 
-#### 🚆 [Coolio — High-Concurrency Transaction Platform](https://github.com/aman-shrivastava)
+#### 🚆 [Coolio — High-Concurrency Transaction Platform](https://github.com/aman-shri)
 *A concurrency-safe backend booking and fulfillment platform built for high data integrity.*
 - **Stack**: TypeScript, PostgreSQL, Redis, REST APIs, Docker
 - **Key Highlights**:
@@ -77,8 +77,13 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-shri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-shri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aman-shri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aman's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aman-shri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=aman-shri&theme=tokyonight&hide_border=true" alt="Aman's GitHub Streak" />
 </div>
 
 ---
