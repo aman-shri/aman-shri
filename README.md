@@ -74,20 +74,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aman-shri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aman's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aman-shri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=aman-shri&theme=tokyonight&hide_border=true" alt="Aman's GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <sub>Let's connect! Always happy to collaborate on distributed systems, open-source tools, and developer infra.</sub>
 </div>
